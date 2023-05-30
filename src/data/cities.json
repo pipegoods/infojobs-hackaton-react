@@ -1,0 +1,322 @@
+[
+  {
+    "city": "Pizzo",
+    "lat": 38.653222,
+    "lng": 15.049722
+  },
+  {
+    "city": "Venezia",
+    "lat": 45.434219,
+    "lng": 12.348804
+  },
+  {
+    "city": "LAINATE (MI) ITALIA",
+    "lat": 45.498944,
+    "lng": 9.191389
+  },
+  {
+    "city": "Montalto di Castro",
+    "lat": 42.341389,
+    "lng": 11.765556
+  },
+  {
+    "city": "Salamanca",
+    "lat": 40.999167,
+    "lng": -5.696944
+  },
+  {
+    "city": "Alcampell",
+    "lat": 42.048333,
+    "lng": 1.475833
+  },
+  {
+    "city": "Sant Joan Despí",
+    "lat": 41.378611,
+    "lng": 2.111111
+  },
+  {
+    "city": "Arrasate/Mondragón",
+    "lat": 43.075278,
+    "lng": -2.012222
+  },
+  {
+    "city": "Madrid",
+    "lat": 40.416667,
+    "lng": -3.683333
+  },
+  {
+    "city": "Alicante/Alacant",
+    "lat": 38.372222,
+    "lng": -0.470556
+  },
+  {
+    "city": "Pamplona/Iruña",
+    "lat": 42.827778,
+    "lng": -1.627778
+  },
+  {
+    "city": "Torremolinos",
+    "lat": 36.716667,
+    "lng": -4.45
+  },
+  {
+    "city": "Loja",
+    "lat": 37.666667,
+    "lng": -3.6
+  },
+  {
+    "city": "Barcelona",
+    "lat": 41.388889,
+    "lng": 2.166667
+  },
+  {
+    "city": "Palma de Mallorca",
+    "lat": 39.566667,
+    "lng": 2.633333
+  },
+  {
+    "city": "Roquetas de Mar",
+    "lat": 36.863889,
+    "lng": -2.794167
+  },
+  {
+    "city": "Santa Coloma de Gramenet",
+    "lat": 41.397222,
+    "lng": 2.158333
+  },
+  {
+    "city": "Paterna",
+    "lat": 39.466667,
+    "lng": -0.366667
+  },
+  {
+    "city": "Murcia",
+    "lat": 37.983333,
+    "lng": -1.133333
+  },
+  {
+    "city": "El Ejido",
+    "lat": 36.783333,
+    "lng": -2.416667
+  },
+  {
+    "city": "Zaragoza",
+    "lat": 41.649722,
+    "lng": -1.083611
+  },
+  {
+    "city": "Nuremberg",
+    "lat": 49.448611,
+    "lng": 11.094444
+  },
+  {
+    "city": "Colonia",
+    "lat": 50.947222,
+    "lng": 6.952222
+  },
+  {
+    "city": "Göttingen",
+    "lat": 51.533333,
+    "lng": 9.916667
+  },
+  {
+    "city": "Oldenburg",
+    "lat": 53.125,
+    "lng": 8.25
+  },
+  {
+    "city": "Eschach",
+    "lat": 48.733333,
+    "lng": 9.666667
+  },
+  {
+    "city": "Ellwangen",
+    "lat": 48.916667,
+    "lng": 10.083333
+  },
+  {
+    "city": "Munich",
+    "lat": 48.133333,
+    "lng": 11.583333
+  },
+  {
+    "city": "Stuttgart",
+    "lat": 48.75,
+    "lng": 9.166667
+  },
+  {
+    "city": "Area De Frankfurt",
+    "lat": 50.116667,
+    "lng": 8.65
+  },
+  {
+    "city": "Alemania",
+    "lat": 49.466667,
+    "lng": 8.95
+  },
+  {
+    "city": "Lörrach",
+    "lat": 47.633333,
+    "lng": 7.566667
+  },
+  {
+    "city": "Emsdetten",
+    "lat": 52.233333,
+    "lng": 7.283333
+  },
+  {
+    "city": "Arnstadt",
+    "lat": 50.966667,
+    "lng": 11.05
+  },
+  {
+    "city": "Bremen",
+    "lat": 53.066667,
+    "lng": 8.8
+  },
+  {
+    "city": "Brandemburg",
+    "lat": 52.366667,
+    "lng": 13.083333
+  },
+  {
+    "city": "Dubín/Kildare/Wicklow/Cork/Athone/Donegal",
+    "lat": 53.348889,
+    "lng": -8.527222
+  },
+  {
+    "city": "Westport, Co: Mayo",
+    "lat": 53.503056,
+    "lng": -9.365833
+  },
+  {
+    "city": "Dublin",
+    "lat": 53.349722,
+    "lng": -6.260556
+  },
+  {
+    "city": "Several Locations",
+    "lat": 53.349722,
+    "lng": -6.260556
+  },
+  {
+    "city": "Kinsealy",
+    "lat": 53.396111,
+    "lng": -6.1275
+  },
+  {
+    "city": "Dublín",
+    "lat": 53.349722,
+    "lng": -6.260556
+  },
+  {
+    "city": "Bogota",
+    "lat": 4.609444,
+    "lng": -74.082778
+  },
+  {
+    "city": "Barranquilla",
+    "lat": 10.375,
+    "lng": -74.8125
+  },
+  {
+    "city": "Guanajuato",
+    "lat": 20.674722,
+    "lng": -101.092222
+  },
+  {
+    "city": "Quintana Roo",
+    "lat": 20.65,
+    "lng": -87.05
+  },
+  {
+    "city": "Lima",
+    "lat": -12.042222,
+    "lng": -77.028056
+  },
+  {
+    "city": "Australia",
+    "lat": -26.175,
+    "lng": 149.125
+  },
+  {
+    "city": "Saint Gauzens",
+    "lat": 43.55,
+    "lng": 1.5
+  },
+  {
+    "city": "Anglet",
+    "lat": 43.416667,
+    "lng": -1.416667
+  },
+  {
+    "city": "Le Barp",
+    "lat": 44.75,
+    "lng": -0.383333
+  },
+  {
+    "city": "Nimes",
+    "lat": 43.875,
+    "lng": 4.366667
+  },
+  {
+    "city": "Region Paris",
+    "lat": 48.85,
+    "lng": 2.35
+  },
+  {
+    "city": "Paris",
+    "lat": 48.856667,
+    "lng": 2.350833
+  },
+  {
+    "city": "Bordeaux",
+    "lat": 44.833333,
+    "lng": -0.566667
+  },
+  {
+    "city": "Saint Nazaire",
+    "lat": 47.2,
+    "lng": -2.2
+  },
+  {
+    "city": "París",
+    "lat": 48.856667,
+    "lng": 2.350833
+  },
+  {
+    "city": "Bussac Foret",
+    "lat": 45.116667,
+    "lng": 0.25
+  },
+  {
+    "city": "Paris",
+    "lat": 48.856667,
+    "lng": 2.350833
+  },
+  {
+    "city": "San Juan De Luz",
+    "lat": 43.366667,
+    "lng": -1.533333
+  },
+  {
+    "city": "Angers",
+    "lat": 47.466667,
+    "lng": -0.55
+  },
+  {
+    "city": "Casablanca",
+    "lat": 33.55,
+    "lng": -7.616667
+  },
+  {
+    "city": "Agadir",
+    "lat": 30.416667,
+    "lng": -9.5
+  },
+  {
+    "city": "Marrakech",
+    "lat": 31.600278,
+    "lng": -8.008333
+  }
+]

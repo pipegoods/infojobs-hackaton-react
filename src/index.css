@@ -1,0 +1,129 @@
+:root {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #121212;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0;
+  text-align: center;
+}
+
+p {
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: inherit;
+}
+
+fieldset {
+  border: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input[type="search"] {
+  background: rgba(255, 255, 255, 0.87);
+  margin: 0.5rem 0;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  color: #121212;
+  font-size: 1rem;
+  font-weight: 400;
+  padding: 0.5rem 1rem;
+  width: 50%;
+}
+
+.buttons-options {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.buttons-options button {
+  background: rgba(255, 255, 255, 0.87);
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  color: #121212;
+  font-size: 0.7rem;
+  font-weight: 400;
+  padding: 0.5rem 1rem;
+  width: 48%;
+}
+
+.buttons-options button:hover {
+  background: rgba(255, 255, 255, 0.75);
+  cursor: pointer;
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  width: 100%;
+  max-width: 1200px;
+  padding: 1rem;
+  align-items: center;
+}
+
+@counter-style repeating-emoji {
+  system: cyclic;
+  symbols: "\1F449"; // unicode code point
+  suffix: " ";
+}
+
+ul {
+  list-style-type: repeating-emoji;
+  max-height: 100%;
+  overflow-y: scroll;
+  max-height: 60vh;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+footer p {
+  font-size: 0.8rem;
+}
